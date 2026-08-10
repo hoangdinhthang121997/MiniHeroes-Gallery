@@ -28,6 +28,28 @@ Hero Gallery is a local roster studio for **Mini Heroes**. The main app is a sin
 - **Optional game-assisted import** — create `roster.json` from your own Mini Heroes session instead of entering many values manually.
 - **Bundled catalogue** — the Mini Heroes 1.25.2 catalogue is included so the editor can work completely offline.
 
+## App overview
+
+Hero Gallery is designed around two main modes:
+
+- **Edit roster** — build your collection by marking heroes as owned and entering only the details you want to track.
+- **Display case** — preview your roster as a polished gallery with cards, hero counts, and a standalone export.
+
+The app UI shows:
+
+- A top bar with mode selection and quick access to **Display case**, **Edit roster**, **Roster data**, and export controls.
+- A hero grid with portrait cards, rarity indicators, owned state, star level, and power/level summaries.
+- Powerful filtering and sorting controls for class, hero type, rarity, artifact state, and roster status.
+- A side panel or detail view for the selected hero that displays progression, artifact status, pet assignment, rune bonuses, and other recorded values.
+- A full hero record view that lets you review every part of a hero’s data, including stats, gear, and Attribute Details.
+
+Use the UI to:
+
+1. Browse the catalogue and mark heroes you own.
+2. Open a hero card to edit progression, artifacts, pets, and rune quality.
+3. Switch to **Display case** to see your heroes in a clean gallery layout.
+4. Click **Download display case** to save a standalone HTML gallery file.
+
 ## Getting started
 
 ### 1. Download and extract
