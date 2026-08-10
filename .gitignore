@@ -1,0 +1,25 @@
+# -----------------------------------------------------------------------------
+# Hero Gallery - user-specific / generated files
+# -----------------------------------------------------------------------------
+OPTIONAL - IMPORT FROM GAME/roster.json
+OPTIONAL - IMPORT FROM GAME/discovered-hosts.txt
+OPTIONAL - IMPORT FROM GAME/tools/exporter/.proxy-state.json
+OPTIONAL - IMPORT FROM GAME/tools/exporter/.local/
+OPTIONAL - IMPORT FROM GAME/tools/exporter/*.pem
+
+# Node / editor / operating-system noise
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Alternate/direct-run or browser-generated personal exports
+OPTIONAL - IMPORT FROM GAME/tools/exporter/roster.json
+OPTIONAL - IMPORT FROM GAME/tools/exporter/discovered-hosts.txt
+OPTIONAL - IMPORT FROM GAME/tools/exporter/proxy.mjs.bak
+OPTIONAL - IMPORT FROM GAME/tools/exporter/proxy.original.mjs
+hero-gallery-manual-data.json
+hero-gallery.html
+# Local packaged archive
+Hero-Gallery.zip

@@ -1,0 +1,25 @@
+HERO GALLERY - UNOFFICIAL COMMUNITY PROJECT DISCLAIMER
+
+Hero Gallery is an unofficial, non-commercial community project created for
+personal roster organization, review, education, informational reference, and
+community sharing related to Mini Heroes: Magic Throne.
+
+Hero Gallery is not affiliated with, sponsored by, endorsed by, approved by, or
+published by MAX GAME PTE. LTD. or any other Mini Heroes publisher, developer,
+platform operator, or rights holder.
+
+All game images, screenshots, artwork, names, logos, trademarks, characters,
+game data, text, and other game-related materials are copyright or trademarks
+of their respective developers, publishers, and rights holders. These
+materials are used here strictly for review, education, informational
+reference, personal roster visualization, and community discussion under the
+principles of fair use where applicable. No ownership of third-party game
+content is claimed by the Hero Gallery project.
+
+Hero Gallery is distributed without charge and is not intended to replace the
+game, provide paid game services, bypass purchases, or generate commercial
+advantage from third-party game content.
+
+The optional roster importer reads roster-related account facts from the
+user's own game session solely to create a local roster file. It is provided
+without warranty.

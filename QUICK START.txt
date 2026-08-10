@@ -1,0 +1,74 @@
+HERO GALLERY - QUICK START
+
+MOST PEOPLE ONLY NEED ONE FILE
+Open START HERE.html. The rest of the ZIP can stay untouched unless you want the optional game-assisted import.
+
+QUICK START
+1. Extract the entire ZIP to a normal folder. Do not run it from inside the ZIP preview.
+2. Double-click START HERE.html.
+3. Choose how you want to add your heroes:
+   A. MANUAL (recommended / simplest): click + on heroes you own, then fill in only the details you want to record.
+   B. OPTIONAL GAME IMPORT: use the "OPTIONAL - IMPORT FROM GAME" folder to create roster.json, then import that file into START HERE.html.
+4. Use Display Case whenever you want the polished gallery view.
+5. Periodically use Roster data -> Download editable backup. That file is the best full recovery/transfer copy of your work.
+
+WHICH PATH SHOULD I USE?
+- Use MANUAL for the easiest setup or if you do not want the capture utility to touch emulator network settings.
+- Use OPTIONAL GAME IMPORT to fill in many values automatically from your own Mini Heroes session.
+- The optional importer is never required for normal Hero Gallery use.
+
+IF YOU USE OPTIONAL GAME IMPORT
+1. Start the Google Play Games Developer Emulator.
+2. Open the "OPTIONAL - IMPORT FROM GAME" folder.
+3. Double-click "1 - CAPTURE MY COLLECTION.cmd".
+4. When Mini Heroes reaches the title screen, tap Start.
+5. Wait for SUCCESS.
+6. Back in START HERE.html, choose Import and select the roster.json created in that optional folder.
+
+If the capture says the regional server is unsupported/refused, open SERVER FIX.html in the optional folder and follow its numbered steps.
+
+If an interrupted capture leaves the emulator unable to reach the internet, double-click "2 - RESTORE EMULATOR NETWORK.cmd" in the optional folder. It restores the proxy settings saved before the capture.
+
+WHAT THE EDITOR STARTS WITH
+- 63 released heroes are available, but none are marked owned.
+- No account, player, roster, pet assignment, rune, gear, talent, or progression data is included.
+- Static game-wide catalogue data for Mini Heroes 1.25.2 is bundled so the editor works offline.
+
+RUNE QUALITY BONUS
+The optional capture can tell which rune slots are occupied, but the tested account response does not reliably expose each rune's quality. Set the Rune Quality Bonus manually when needed. The game activates the set bonus at the LOWEST quality among all six equipped runes.
+
+STATS AND ATTRIBUTE DETAILS
+Use the final values shown on the hero's Attribute screen. Those values already include applied rune substats and other bonuses. The current importer preserves expanded Attribute Details values when the game supplies them. If your roster.json came from an older extractor, capture it again with the current utility.
+
+FILES YOU MAY CARE ABOUT
+- START HERE.html
+  Main offline Hero Gallery editor and Display Case.
+- QUICK START.txt
+  This plain-language guide.
+- README.md
+  GitHub-friendly version of the guide.
+- OPTIONAL - IMPORT FROM GAME\
+  Optional Windows capture, recovery, regional-server discovery, and SERVER FIX.html.
+- LICENSE.txt
+  License for original Hero Gallery code/documentation.
+- THIRD_PARTY_NOTICES.txt
+  Notices for bundled third-party software components.
+- DISCLAIMER.txt
+  Unofficial-project and third-party-content notice.
+- SECURITY.md
+  Privacy/safety notes for users and repository contributors.
+
+PRIVACY AND SAFETY
+- START HERE.html and SERVER FIX.html are self-contained. They do not make active web requests, load CDNs, or upload selected files.
+- The normal editor stores its working draft in your browser and only creates files when you choose a download/export action.
+- The optional capture utility is separate. It temporarily changes the emulator proxy setting so it can read the Mini Heroes response that contains your collection.
+- The normal capture proxy listens on this computer only and accepts only the configured Mini Heroes API hostname on HTTPS port 443; other CONNECT destinations are refused.
+- roster.json does not contain request headers or the token, openId, or uid sign-in fields checked by the exporter.
+- The original emulator proxy settings are saved before the temporary change and are restored and verified afterward.
+- Generated roster/recovery/discovery files are excluded by .gitignore so they are less likely to be committed accidentally.
+
+GITHUB NOTE
+GitHub can be used to store and download the project files. For normal use, download the repository or Release ZIP (or clone it), extract it, and open START HERE.html locally.
+
+UNOFFICIAL / NON-COMMERCIAL
+Hero Gallery is an unofficial, non-commercial community project and is not affiliated with or endorsed by MAX GAME PTE. LTD. All game images, screenshots, artwork, names, characters, and other game-related materials are copyright or trademarks of their respective developers, publishers, and rights holders. These materials are used here strictly for review, education, informational reference, personal roster visualization, and community discussion under the principles of fair use where applicable. No ownership of third-party game content is claimed.

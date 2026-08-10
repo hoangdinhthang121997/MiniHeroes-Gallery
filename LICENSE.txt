@@ -1,0 +1,46 @@
+HERO GALLERY NON-COMMERCIAL COMMUNITY LICENSE v1.0
+
+Copyright in the original Hero Gallery source code remains with its respective
+creator(s) and contributor(s).
+
+Permission is granted, free of charge, to use, copy, modify, and redistribute
+the original Hero Gallery source code and documentation for non-commercial
+educational, teaching, research, personal, and community purposes, including
+sharing Mini Heroes roster displays with other players.
+
+The following conditions apply:
+
+1. COMMERCIAL USE IS NOT GRANTED.
+   You may not sell, sublicense for a fee, place behind a paid service, use in
+   paid advertising, or otherwise use the Hero Gallery code primarily for
+   commercial advantage or monetary compensation without separate permission
+   from the applicable Hero Gallery copyright holder(s).
+
+2. KEEP THIS NOTICE.
+   Redistributed copies or substantial portions of the Hero Gallery code must
+   retain this license and the accompanying DISCLAIMER.txt notice.
+
+3. THIRD-PARTY CONTENT IS EXCLUDED.
+   This license applies only to original Hero Gallery code and documentation to
+   the extent the Hero Gallery creator(s) have rights to license them. It does
+   not grant any license or ownership interest in Mini Heroes: Magic Throne,
+   its names, trademarks, characters, artwork, images, game data, text,
+   cryptographic material, or any other third-party content. Rights in those
+   materials remain with MAX GAME PTE. LTD. and/or their respective owners.
+
+4. NO AFFILIATION OR ENDORSEMENT.
+   This project is unofficial. Permission to use Hero Gallery does not imply
+   sponsorship, endorsement, approval, or affiliation with MAX GAME PTE. LTD.
+   or any Mini Heroes publisher, developer, platform, or rights holder.
+
+5. NO WARRANTY.
+   THE HERO GALLERY CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHORS AND CONTRIBUTORS SHALL
+   NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+This is a custom non-commercial source license, not an OSI-approved open-source
+license. If you need rights beyond these terms, obtain permission from the
+applicable copyright holder(s).
