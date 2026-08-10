@@ -45,17 +45,17 @@ The app UI shows:
 
 ### App screenshots
 
+![Roster grid and toolbar](screenshots/06-hero-toolbar.png)
+
+*The main editor layout with filters, toolbar actions, and hero cards.*
+
 ![Selected hero details](screenshots/02-selected-hero-details.png)
 
-*Selected hero summary view with progression, artifact, and pet details.*
-
-![Display case view](screenshots/03-display-case-view.png)
-
-*Display Case mode showing the polished gallery export layout.*
+*Selected hero detail editing, including progression, artifact, pet, and rune details.*
 
 ![Full hero record view](screenshots/04-hero-record-view.png)
 
-*Expanded hero record view showing stats, gear, and Attribute Details.*
+*Expanded hero record detail view for high-level verification and game data review.*
 
 ### What the screenshots show
 
@@ -192,6 +192,10 @@ Once all three requirements are ready, continue with the import steps below.
 6. Wait until the console says **SUCCESS**.
 7. Open `START HERE.html`.
 8. Choose **Roster data → Import data** and select the generated `roster.json`.
+
+![Import options and server launcher](screenshots/08-import-options.png)
+
+*Optional import tools and the server capture launcher screen.*
 
 The imported roster remains fully editable inside Hero Gallery.
 
