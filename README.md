@@ -43,6 +43,15 @@ The app UI shows:
 - A side panel or detail view for the selected hero that displays progression, artifact status, pet assignment, rune bonuses, and other recorded values.
 - A full hero record view that lets you review every part of a hero’s data, including stats, gear, and Attribute Details.
 
+![Hero Gallery Display Case](screenshots/display-case.png)
+
+### What the screenshots show
+
+- **Top toolbar and mode switcher** — the app centers around the Display Case and Edit roster controls.
+- **Hero card gallery** — each hero card shows rarity, name, star level, owned state, and quick stats.
+- **Selected hero summary** — the detail panel surfaces progression, artifact, pet, and rune quality metadata.
+- **Full hero detail view** — expanded hero records reveal Attribute Details, final stats, and editable progression fields.
+
 Use the UI to:
 
 1. Browse the catalogue and mark heroes you own.
