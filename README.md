@@ -47,9 +47,15 @@ The app UI shows:
 
 ![Hero Gallery roster grid](screenshots/Screenshot%202026-08-09%20234043.png)
 
+*Roster grid with filters, hero cards, and quick summary counts.*
+
 ![Selected hero details](screenshots/Screenshot%202026-08-09%20234256.png)
 
+*Selected hero summary view with progression, artifact, and pet details.*
+
 ![Display case view](screenshots/Screenshot%202026-08-09%20234310.png)
+
+*Display Case mode showing the polished gallery export layout.*
 
 ### What the screenshots show
 
